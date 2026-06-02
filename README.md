@@ -1,17 +1,17 @@
 # siddnikh
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500" />
+  <img src="https://media.tenor.com/c4xj0vM0T8gAAAAC/ai-grok-agent.gif" width="500" />
 </p>
 
 Software developer.
-Currently building at [Feeble.io](https://feeble.io?utm_source=chatgpt.com) while increasingly focused on building my own products.
+Currently building at [Feeble.io](https://feeble.io) while increasingly focused on building my own products.
 
 Over the years, this account accumulated:
 
-```txt id="b8d3xv"
+```txt id="g0frvu"
 136 repositories
-~958 KLOC shipped
+~2380.77 KLOC shipped (just from my end)
 ```
 
 Most of it lives somewhere between:
@@ -54,16 +54,12 @@ Current themes:
 * developer experience
 * shipping fast without completely detonating maintainability
 
-<p align="center">
-  <img src="https://media.tenor.com/HEPpFvMJsEkAAAAC/hacker-hacking.gif" width="420" />
-</p>
-
 Git history reads less like a portfolio and more like telemetry from an engine under sustained load.
 
 ---
 
 Happy to talk, build, or brainstorm:
 
-```txt id="tr7e2v"
+```txt id="lktm8h"
 mailtosiddnikh@gmail.com
 ```
