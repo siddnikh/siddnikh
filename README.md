@@ -1,6 +1,6 @@
 ## hey wassup?
 <p align="center">
-  <img src="https://media.tenor.com/c4xj0vM0T8gAAAAM/ai-grok-agent.gif" width="500"/>
+  <img src="https://media.tenor.com/hVX6r4kDu00AAAAj/ai-grok.gif" width="200"/>
 </p>
 
 Software developer.
@@ -10,7 +10,7 @@ Over the years, this account accumulated:
 
 ```txt id="g0frvu"
 136 repositories
-~2380.77 KLOC shipped (just from my end)
+~2380.77 KLOC shipped - last sync at 2 Jun, 2026
 ```
 
 Most of it lives somewhere between:
