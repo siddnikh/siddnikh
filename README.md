@@ -1,7 +1,6 @@
-# siddnikh
-
+## hey wassup?
 <p align="center">
-  <img src="https://media.tenor.com/c4xj0vM0T8gAAAAC/ai-grok-agent.gif" width="500" />
+  <img src="https://media.tenor.com/c4xj0vM0T8gAAAAM/ai-grok-agent.gif" width="500"/>
 </p>
 
 Software developer.
