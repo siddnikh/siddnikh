@@ -10,6 +10,7 @@ Working in UI/UX, Business Systems, AI (LLM) pipelines, automating business logi
 - **[Devi AI](https://devi-ai.com)**: an AI study companion for school students. QR codes printed in a publisher's textbooks open each chapter, with a tutor that answers from that chapter's text. 8,500+ students signed up, with 1500+ MAU since May, 2026.
 - **A Ceramics Factory ERP**: built solo, end-to-end for a ceramics factory that had no documentation. Scheduling, auto-planning and an MCP integration, now running on the factory floor.
 - **Homebase** (at feeble.io): a file library for teams and agents, with a remote MCP server (OAuth), a CLI, and plugins for Claude Code, Codex and Cursor.
+- **[The Fourth Place](https://thefourthplace.me)**: Social consumer app, kind of like the Letterboxd for everything. Document everything that you love and find people who love the same things as you.
 
 **Small things I've open-sourced**
 - [inbox-tidy](https://github.com/siddnikh/inbox-tidy): a macOS app that cleans your inbox using your own Claude or Codex subscription.
