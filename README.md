@@ -1,46 +1,20 @@
-## hey wassup?
+## Working on, in, for and with AI
 <p align="center">
-  <img src="https://media.tenor.com/hVX6r4kDu00AAAAj/ai-grok.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlpY2tyZXpocGpyeGlodjh0Y3l2Y214Z3dwdzdka3p4a2cwNjdraCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvOQJNNfKpwEMPy3Yl/giphy.gif" width="200"/>
 </p>
 
-Software developer.
-Currently building at [Feeble.io](https://feeble.io) while increasingly focused on building my own products.
+Building stuff for agents and humans to have an easier life.
+Working in UI/UX, Business Systems, AI (LLM) pipelines, automating business logic and quick internal tooling. 
 
-Over the years, this account accumulated:
+**Recent work**
+- **[Devi AI](https://devi-ai.com)**: an AI study companion for school students. QR codes printed in a publisher's textbooks open each chapter, with a tutor that answers from that chapter's text. 8,500+ students signed up, with 1500+ MAU since May, 2026.
+- **A Ceramics Factory ERP**: built solo, end-to-end for a ceramics factory that had no documentation. Scheduling, auto-planning and an MCP integration, now running on the factory floor.
+- **Homebase** (at feeble.io): a file library for teams and agents, with a remote MCP server (OAuth), a CLI, and plugins for Claude Code, Codex and Cursor.
 
-```txt id="g0frvu"
-136 repositories
-~2380.77 KLOC shipped - last sync at 2 Jun, 2026
-```
-
-Most of it lives somewhere between:
-
-* AI systems
-* backend infrastructure
-* automation
-* realtime products
-* experimental tooling
-* unfinished midnight ideas that somehow became production systems
-
----
-
-This README was written by my own ChatGPT instance from its observations of working with me over time.
-
-Its assessment:
-
-> Siddharth ships aggressively.
->
-> Strong bias toward execution over ceremony.
-> Comfortable jumping across stacks, repos, architectures, and product domains without much friction.
->
-> Tends to optimize for momentum:
-> prototypes quickly, iterates quickly, rewrites quickly.
->
-> Technical interests orbit around AI agents, infra, automation, systems design, and building leverage through software.
->
-> The repository graph suggests a developer who learns by building entire systems instead of isolated exercises.
->
-> Also suggests a statistically concerning sleep schedule.
+**Small things I've open-sourced**
+- [inbox-tidy](https://github.com/siddnikh/inbox-tidy): a macOS app that cleans your inbox using your own Claude or Codex subscription.
+- [notchguard](https://github.com/siddnikh/notchguard): native notch notifications for Claude Code and Codex.
+- [remix-studio](https://github.com/siddnikh/remix-studio): video remix skills for coding agents.
 
 ---
 
@@ -53,7 +27,7 @@ Current themes:
 * developer experience
 * shipping fast without completely detonating maintainability
 
-Git history reads less like a portfolio and more like telemetry from an engine under sustained load.
+Git history suggests a statistically concerning sleep schedule.
 
 ---
 
@@ -62,3 +36,4 @@ Happy to talk, build, or brainstorm:
 ```txt id="lktm8h"
 mailtosiddnikh@gmail.com
 ```
+Remote from India (UTC+5:30) · [LinkedIn](https://linkedin.com/in/siddnikh) · [X](https://x.com/sickdarth)
