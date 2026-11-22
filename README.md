@@ -18,7 +18,7 @@ Working in UI/UX, Business Systems, AI (LLM) pipelines, automating business logi
 <td width="50%" valign="top">
 
 **[Devi AI](https://devi-ai.com)**<br/>
-an AI study companion for school students. QR codes printed in a publisher's textbooks open each chapter, with a tutor that answers from that chapter's text. 8,500+ students signed up, with 1500+ MAU since May, 2026.
+an AI study companion for school students. QR codes printed in a publisher's textbooks open each chapter, with a tutor that answers from that chapter's text. 8,500+ students signed up, peaking at about 1,500 monthly active users.
 
 </td>
 <td width="50%" valign="top">
