@@ -49,8 +49,7 @@ Social consumer app, kind of like the Letterboxd for everything. Document everyt
 | | |
 |---|---|
 | [**inbox-tidy**](https://github.com/siddnikh/inbox-tidy) | a macOS app that cleans your inbox using your own Claude or Codex subscription. |
-| [**notchguard**](https://github.com/siddnikh/notchguard) | native notch notifications for Claude Code and Codex. |
-| [**remix-studio**](https://github.com/siddnikh/remix-studio) | video remix skills for coding agents. |
+| [**remix-studio**](https://github.com/siddnikh/remix-studio) | Higgsfield Katana and Genjutsu, self-hosted: your own coding agent does the edit, and you pay per clip (about $0.49 for a 4 s swap) instead of buying credits. |
 
 <br/>
 
