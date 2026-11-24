@@ -2,7 +2,7 @@
 
 ## Working on, in, for and with AI
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlpY2tyZXpocGpyeGlodjh0Y3l2Y214Z3dwdzdka3p4a2cwNjdraCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OvOQJNNfKpwEMPy3Yl/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3B0bDdodDlqbzcyczN3aXh0eWg3MHcwNTQwbm84Nnp0Nnc0enowZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnbwVKTj0vBQSK47us/giphy.gif" width="160"/>
 
 Building stuff for agents and humans to have an easier life.<br/>
 Working in UI/UX, Business Systems, AI (LLM) pipelines, automating business logic and quick internal tooling.
